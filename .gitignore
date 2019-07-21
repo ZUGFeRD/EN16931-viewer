@@ -1,7 +1,5 @@
-dist
-build
-lib
-reports
-.vscode
-*.xpr
-.ant-targets-build.xml 
+.DS_Store
+dist/
+node_modules/
+thumbs.db
+.idea/
